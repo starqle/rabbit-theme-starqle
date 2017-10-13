@@ -1,0 +1,12 @@
+---
+id: starqle
+tags:
+- starqle
+version: 1.0.0
+licenses:
+- MIT
+author:
+  markup_language: :rd
+  name: Starqle
+  email: info@starqle.com
+  rubygems_user: giosakti
